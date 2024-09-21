@@ -1,0 +1,16 @@
+.centerd-box-title {
+  width: 50%;
+  margin: 40px auto 2px;
+  background-color: white;
+  padding: 2;
+  text-align: center;
+  border-radius: 0.5cap;
+}
+.centered-content {
+  width: 50%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 2;
+  text-align: center;
+  border-radius: 0.5cap;
+}
